@@ -296,6 +296,8 @@ defaults:
       share: true
       related: true
       show_date: True
-
+      toc_sticky: true
+      toc_label : 목차
+      toc_icon: "fas fa-tasks"
 
 date_format: "%Y-%m-%d"
