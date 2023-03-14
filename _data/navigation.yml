@@ -8,14 +8,14 @@ main:
     url: /search/
 
 docs:
-  - title: "Menu"
+  - title: "목차1"
     children:
       - title: "Category"
         url: /categories/
       - title: "Tag"
         url: /tags/
 
-  - title: "reserve Link"
+  - title: "목차2"
     children:
       - title: "Category"
         url: /categories/
