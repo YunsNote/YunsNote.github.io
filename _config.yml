@@ -111,7 +111,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: "wnsgur798@naver.com"
+      # url: "wnsgur798@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,13 +123,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YunsNote"
+        url: "https://github.com/YunsNote"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-       url: "https://youtube.com/"
+        url: "https://youtube.com/"
 
 # Site Footer
 footer:
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/YunsNote"
+        url: "https://github.com/YunsNote"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
