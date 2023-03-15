@@ -114,7 +114,7 @@ author:
       # url: "wnsgur798@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -123,7 +123,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/YunsNote"
+      url: "https://github.com/YunsNote"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/YunsNote"
+      url: "https://github.com/YunsNote"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-      # url: "https://youtube.com/"  
+      url: "https://youtube.com/"  
 
 
 # Reading Files
