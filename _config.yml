@@ -123,13 +123,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/YunsNote"
+      # url: "https://github.com/YunsNote"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-        url: "https://youtube.com/"
+      # url: "https://youtube.com/"
 
 # Site Footer
 footer:
