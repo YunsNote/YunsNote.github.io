@@ -142,7 +142,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-        url: "https://github.com/YunsNote"
+      # url: "https://github.com/YunsNote"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -154,7 +154,7 @@ footer:
       # url:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
-       url: "https://youtube.com/"  
+      # url: "https://youtube.com/"  
 
 
 # Reading Files
