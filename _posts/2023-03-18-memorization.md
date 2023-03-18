@@ -81,9 +81,8 @@ nav: "docs"
 		toUpperCase(): 문자열을 대문자로 변환합니다.
 		A.equals(B) : A와 B의 값이 동일한지 판별합니다.
  
-		사용예시는 대해서 작성한 '문자열과 기능' 을 링크해두겠습니다.
-		<https://yunsnote.github.io/blog/day005/>
-		[링크](https://yunsnote.github.io/blog/day005/)
+		사용예시는 대해서 작성한 '문자열과 기능'의 주소를 남겨두겠습니다.
+			https://yunsnote.github.io/blog/day005/
 	}
 		
 
