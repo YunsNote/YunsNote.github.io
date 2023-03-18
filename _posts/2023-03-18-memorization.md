@@ -70,7 +70,7 @@ nav: "docs"
 
 	public static void main(String[] args) {
 
-		제가 주관적인 중요도가 높은 함수들을 나열해봤습니다.
+		제 생각에 활용 빈도가 높은 함수들을 나열해봤습니다.
 
 		length(): 문자열의 길이를 반환합니다.
 		charAt(): 주어진 인덱스의 문자를 반환합니다.
@@ -89,7 +89,7 @@ nav: "docs"
 ```
 		https://yunsnote.github.io/blog/day005/
 
-		
+
 ## 배열관련 함수
 
 ```java
