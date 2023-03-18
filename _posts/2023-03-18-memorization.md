@@ -102,6 +102,7 @@ nav: "docs"
 	System.out.println("arr1 : " + Arrays.toString(arr1)); = arr1의 값을 나열합니다.
 
 ```
+<hr/>
 
 # 유형별 응용하면 좋을 구문
 
