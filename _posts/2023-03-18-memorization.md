@@ -39,7 +39,7 @@ nav: "docs"
 			%c : character 한 문자를 표현하며 char에 대해 사용합니다.
 			%s : string 문자열을 표현하며 String에 대해 사용합니다.
 
-		4. System.out.format() : printf()와 기능이 동일하지만 출력 결과를 문자열로 반환하는 것이 특징입니다.
+		4.. format() : printf()와 기능이 동일하지만 출력 결과를 문자열로 반환하는 것이 특징입니다.
 	
 	}
 
